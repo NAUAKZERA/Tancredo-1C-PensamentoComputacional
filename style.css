@@ -7,4 +7,8 @@ body {
 }
 .capa {
     width: 100%;
+    height: 65%;
+}
+.conteudo{
+    background:#ffcbf2 ;
 }
